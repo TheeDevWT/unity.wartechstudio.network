@@ -1,0 +1,20 @@
+{
+    "name": "Unity.WartechStudio.Network.Runtime",
+    "rootNamespace": "Unity.WartechStudio.Network",
+    "references": [
+        "GUID:f12aafacab75a87499e7e45c873ffab8",
+        "GUID:2665a8d13d1b3f18800f46e256720795",
+        "GUID:e0cd26848372d4e5c891c569017e11f1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        "Newtonsoft.Json.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

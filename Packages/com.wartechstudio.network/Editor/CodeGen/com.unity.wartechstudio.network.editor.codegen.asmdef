@@ -1,0 +1,21 @@
+{
+    "name": "Unity.WartechStudio.Network.Editor.CodeGen",
+    "rootNamespace": "Unity.WartechStudio.Network.Editor.CodeGen",
+    "references": [
+        "Unity.WartechStudio.Network.Runtime",
+        "Unity.Collections"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Mono.Cecil.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
